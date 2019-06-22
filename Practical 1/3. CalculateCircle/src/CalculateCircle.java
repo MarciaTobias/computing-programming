@@ -3,8 +3,8 @@
 * constant), and a variable for the radius of the circle. The output of the program should look like:
 *
 * The circle has a radius of 5
-* Its area is 78.53975
-* Its circumference is 31.4159
+* I'ts area is 78.53982
+* I'ts circumference is 31.4159
 */
 
 public class CalculateCircle {
