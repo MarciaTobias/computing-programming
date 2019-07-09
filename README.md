@@ -8,7 +8,7 @@ This module teaches the learner how to design high-quality programs in a systema
 	
 - Calculate Circle User Input: Calculates the area and the circumference of a circle radius given by the user.
 	
-### 1. Elementary Programming (Practical 2)
+### 2. Elementary Programming (Practical 2)
 	
 - Simples Calculation: The program uses two equations to find a result.
 	
@@ -28,7 +28,7 @@ This module teaches the learner how to design high-quality programs in a systema
 	
 - Random Upper Case: The program displays a random uppercase letter using the System.CurrentTimeMillis() method.
 	
-### 1. Selection (Practical 3)
+### 3. Selection (Practical 3)
 	
 - Display Days: The program that prompts the user to enter the month and year and displays the number of days in the month.
 	
