@@ -1,15 +1,15 @@
-#**Programming and Data Structures**
+# **Programming and Data Structures**
 
-##Workbooks and Assignments from Computing Programming (Java)
+## Workbooks and Assignments from Computing Programming (Java)
 
 This module teaches the learner how to design high-quality programs in a systematic way. All the relevant concepts and techniques are explained and exemplified in the clearest, simplest language. The module aims to introduce the learner to the concepts of programming and problem solving.
 	
-###1. Introduction to Java Programming (Practical 1)
+### 1. Introduction to Java Programming (Practical 1)
 	
 1. Calculate Circle User Input 
 Calculates the area and the circumference of a circle radius given by the user.
 	
-###1. Elementary Programming (Practical 2)
+### 1. Elementary Programming (Practical 2)
 	
 1. Simples Calculation
 The program uses two equations to find a result.
@@ -38,7 +38,7 @@ The program displays the current time and date, using the System.CurrentTimeMill
 9. Random Upper Case
 The program displays a random uppercase letter using the System.CurrentTimeMillis() method.
 	
-###1. Selection (Practical 3)
+### 1. Selection (Practical 3)
 	
 1. Display Days
 The program that prompts the user to enter the month and year and displays the number of days in the month.
