@@ -1,9 +1,8 @@
 /**
  * Practical 4 Question 2
  *
- *      Write a program that lets the user enter the loan amount and loan period
- *      in number of years and displays the monthly and total payments for each
- *      interest rate starting from 5% to 8%, with an increment of 1/8%.
+ *      You can approximate π by using the following series:
+ *      Write a program that displays the π value for i = 10,000, 20,000, ..., to 100,000.
  *
  * Created by Marcia Tobias on 22/10/2018.
  * */
