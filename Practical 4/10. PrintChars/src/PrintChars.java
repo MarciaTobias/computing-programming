@@ -1,6 +1,6 @@
 /* Marcia Tobias on 24/10/2018.
  *
- * Practical 4 Question 9
+ * Practical 4 Question 10
  *
  *      This method prints the characters between ch1 and ch2 with the specified numbers per line. Write a test program
  *      that prints ten characters per line from 1 to Z. Characters are separated by exactly one space.
