@@ -47,3 +47,25 @@ This module teaches the learner how to design high-quality programs in a systema
 - Pyramid: The program prompts the user to enter an integer from 1 to 15 and displays a pyramid.
 	
 - Nested Loops: The program uses nested loops that display the following patterns one after another.
+
+### 4. Loops (Practical 4)
+
+- Loan Calculator: The user enter the loan amount and loan period in number of years and displays the monthly and total payments for each interest rate starting from 5% to 8%, with an increment of 1/8%.
+
+- Using Series: The program displays the π value for i = 10,000, 20,000, ..., to 100,000.
+
+- Leap Years: Display leap years from 2001 to 2100.
+
+- Year First Day: The program prompts the user to enter the year and first day of the year, and displays the first day of each month in the year on the console. 
+
+- Calendar Table: The program prompts the user to enter the year and first day of the year and displays the calendar table for the year on the console. 
+
+- Flipping Coin: The program simulates flipping a coin one million times and displays the number of heads and tails.
+
+- Palindrome: The program prompts the user to enter an integer and reports whether the integer is a palindrome.
+
+- Sorted Numbers: The program prompts the user to enter three numbers and invokes the method to display them in increasing order.
+
+- Conversion: Converts meters to foot and vice-versa.
+
+- Print Chars: The program prints ten characters per line from 1 to Z.
