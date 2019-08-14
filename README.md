@@ -1,4 +1,4 @@
-# **Programming and Data Structures**
+# **Programming and Data Structures in Griffith College Dublin **
 
 ## Workbooks and Assignments from Computing Programming (Java)
 
